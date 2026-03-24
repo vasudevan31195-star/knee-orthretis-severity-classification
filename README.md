@@ -30,7 +30,7 @@ Highlights Key Regions, show predictions
 
 how to run:
 shell
-(base)$: git clone git@github.com:mafda/knee_OA_dl_app.git
+(base)$: git clone https://github.com/vasudevan31195-star/knee-orthretis-severity-classification/edit/main/README.md)
 (base)$: cd knee_OA_dl_app
 
 shell
