@@ -72,7 +72,7 @@ grad_model = tf.keras.models.Model(
 with st.sidebar:
     st.image(icon)
     st.subheader("Final Project - MDC013")
-    st.caption("=== Fernanda Rodriguez ===")
+    st.caption("=== vasudevan c ===")
 
     st.subheader(":arrow_up: Upload image")
     uploaded_file = st.file_uploader("Choose x-ray image")
